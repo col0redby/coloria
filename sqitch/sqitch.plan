@@ -1,0 +1,8 @@
+%syntax-version=1.0.0
+%project=coloria
+%uri=https://github.com/col0redby/coloria
+
+database_coloria 2020-04-20T15:55:55Z ncharitinov <nikita.ncharitinov@amobee.com> # Creating a coloria database
+table_images [database_coloria] 2020-04-20T15:58:05Z ncharitinov <nikita.ncharitinov@amobee.com> # Creating an images table
+table_image_versions [database_coloria table_images] 2020-04-20T15:59:18Z ncharitinov <nikita.ncharitinov@amobee.com> # Creating an image_versions table
+table_version_colors [database_coloria table_image_versions] 2020-04-20T16:03:16Z ncharitinov <nikita.ncharitinov@amobee.com> # Creating an version_colors table
