@@ -6,7 +6,7 @@
 ### Metadata Extraction (metadata-extractor)
 ![Eample](https://github.com/col0redby/coloria/blob/media/media/Metadata.jpg)
 
-### Image clustering
+### Image clustering (OpenCV)
 ![Example](https://github.com/col0redby/coloria/blob/media/media/Clustering.jpg)
 
 See [wiki](https://github.com/col0redby/coloria/wiki) for more details.
