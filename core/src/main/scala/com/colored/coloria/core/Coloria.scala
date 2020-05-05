@@ -7,10 +7,6 @@ import org.opencv.imgcodecs.Imgcodecs
 
 object Coloria {
 
-  /*
-  At the moment, this is just a copy-past of
-  https://github.com/badlogic/opencv-fun/blob/master/src/pool/tests/Cluster.java
-   */
   def process(
       imagePath: String,
       clustersCount: Int,
