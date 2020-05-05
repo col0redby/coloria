@@ -24,6 +24,7 @@ import scala.util.Try
     "targetKeyPrefix": "images/user/nkharitonov"
   }
  */
+// todo: use avast/scala-rabbitmq client
 
 object Resizer {
 

@@ -18,6 +18,7 @@ import com.colored.coloria.core.{Coloria, Metadata => CoreMetdata}
     "originalKey": "nkharitonov/original/косуля2.jpg"
   }
  */
+// todo: use avast/scala-rabbitmq client
 
 object Colors {
 

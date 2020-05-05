@@ -22,6 +22,7 @@ import com.colored.coloria.metadata.config.Config
     "originalKey": "nkharitonov/original/косуля2.jpg"
   }
  */
+// todo: use avast/scala-rabbitmq client
 
 object Metadata {
 
